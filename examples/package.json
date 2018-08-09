@@ -1,0 +1,20 @@
+{
+  "name": "baidu_map_more_marker",
+  "version": "1.0.0",
+  "description": "resolve more marker overlay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"live-server"
+  },
+  "keywords": [
+    "baidu"
+  ],
+  "author": "zhc",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
