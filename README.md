@@ -66,6 +66,6 @@ examples例子查看；cd examples live-server
 
 通过canvas画布，把所有的覆盖物都画在画布上，减少浏览器渲染dom，从根本上解决，但是需要知道经纬度在canvas换算的算法，搁浅...
 
-**更新：**https://mapv.baidu.com/ 如果对覆盖物的样式没有需求，或者修改源码自己定义这个还不错
+**更新：** https://mapv.baidu.com/ 如果对覆盖物的样式没有需求，或者修改源码自己定义这个还不错
 
   
